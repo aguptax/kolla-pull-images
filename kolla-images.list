@@ -35,9 +35,11 @@ memcached
 mariadb-clustercheck
 mariadb-server
 cron
+iscsid
 tgtd
 masakari-api
 masakari-engine
 masakari-monitors
 masakari-base
 iscsid
+keystone-ssh
