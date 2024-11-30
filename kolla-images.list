@@ -35,3 +35,9 @@ memcached
 mariadb-clustercheck
 mariadb-server
 cron
+masakari-api
+masakari-engine
+masakari-monitors
+masakari-base
+iscsid
+chrony
