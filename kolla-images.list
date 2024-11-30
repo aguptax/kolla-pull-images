@@ -41,5 +41,12 @@ masakari-api
 masakari-engine
 masakari-monitors
 masakari-base
-iscsid
-keystone-ssh
+barbican-api
+barbican-keystone-listener
+barbican-worker
+barbican-base
+hacluster-corosync
+hacluster-pacemaker
+hacluster-pacemaker-remote
+hacluster-pcs
+hacluster-base
