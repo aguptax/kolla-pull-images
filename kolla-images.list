@@ -35,3 +35,4 @@ memcached
 mariadb-clustercheck
 mariadb-server
 cron
+tgtd
