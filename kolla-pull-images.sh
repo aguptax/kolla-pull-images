@@ -4,7 +4,7 @@
 
 public_registry_host="quay.io"
 local_registry_host="docker-registry"
-kolla_release="zed-ubuntu-jammy"
+kolla_release="2023.2-ubuntu-jammy""
 IMAGE_LIST="kolla-images.list"
 
 #
