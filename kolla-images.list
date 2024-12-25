@@ -1,3 +1,12 @@
+ceilometer-compute
+ceilometer-central
+ceilometer-notification
+ceilometer-ipmi
+ceilometer-base
+gnocchi-api
+gnocchi-metricd
+gnocchi-statsd
+gnocchi-base
 aodh-api
 aodh-notifier
 aodh-evaluator
