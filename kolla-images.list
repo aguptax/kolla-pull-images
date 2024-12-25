@@ -1,3 +1,9 @@
+aodh-api
+aodh-notifier
+aodh-evaluator
+aodh-listener
+aodh-expirer
+aodh-base
 masakari-base
 skyline-apiserver
 skyline-console
