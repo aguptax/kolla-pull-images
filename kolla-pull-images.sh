@@ -4,7 +4,7 @@
 
 public_registry_host="quay.io"
 local_registry_host="docker-registry"
-kolla_release="2023.2-ubuntu-jammy""
+kolla_release="2023.2-ubuntu-jammy" #change as per the required version of openstack
 IMAGE_LIST="kolla-images.list"
 
 #
