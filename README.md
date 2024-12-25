@@ -21,7 +21,7 @@ cat /etc/docker/daemon.json
 
 
 # kolla-pull-images.sh
-git clone https://github.com/satishdotpatel/kolla-pull-images/
+git clone https://github.com/aguptax/kolla-pull-images/
 cd kolla-pull-images
 chmod 700 kolla-pull-images.sh
 ./kolla-pull-images.sh
