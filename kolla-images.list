@@ -18,7 +18,6 @@ skyline-apiserver
 skyline-console
 hacluster-pacemaker
 hacluster-corosync
-hacluster-pacemaker-remote
 hacluster-base
 hacluster-pcs
 neutron-bgp-dragent
