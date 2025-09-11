@@ -3,6 +3,10 @@ xavs-toolbox
 fluentd
 cron
 
+mariadb
+mariadb-server
+mariadb-clustercheck
+
 keepalived
 haproxy
 
@@ -46,8 +50,7 @@ glance-api
 
 rabbitmq
 memcached
-mariadb
-mariadb-clustercheck
+
 
 ##############--OVN
 ovn-controller
