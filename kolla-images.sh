@@ -1,5 +1,5 @@
 ##############--coreservices
-kolla-toolbox
+xavs-toolbox
 fluentd
 cron
 
