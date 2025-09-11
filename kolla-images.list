@@ -1,20 +1,30 @@
 ##############--coreservices
 kolla-toolbox
 fluentd
+cron
+
 keepalived
 haproxy
+
 horizon
+
 keystone-ssh
+keystone
+keystone-fernet
+
 heat-engine
 heat-api
 heat-api-cfn
+
 neutron-server
 neutron-metadata-agent
 neutron-openvswitch-agent
 neutron-dhcp-agent
 neutron-l3-agent
+
 openvswitch-vswitchd
 openvswitch-db-server
+
 nova-api
 nova-conductor
 nova-scheduler
@@ -22,29 +32,28 @@ nova-compute
 nova-libvirt
 nova-novncproxy
 nova-ssh
+
 placement-api
+
 cinder-api
 cinder-scheduler
 cinder-volume
 cinder-backup
+iscsid
+tgtd
+
 glance-api
-keystone
-keystone-fernet
+
 rabbitmq
 memcached
-mariadb-server
+mariadb
 mariadb-clustercheck
-cron
 
 ##############--OVN
 ovn-controller
 ovn-northd
 ovn-sb-db-server
 ovn-nb-db-server
-
-################---advance OVN
-neutron-bgp-dragent
-neutron-metering-agent
 #######################################
 
 
@@ -69,11 +78,6 @@ aodh-base
 skyline-apiserver
 skyline-console
 
-hacluster-pacemaker
-hacluster-corosync
-hacluster-base
-hacluster-pcs
-
 watcher-api
 watcher-applier
 watcher-engine
@@ -82,11 +86,15 @@ masakari-base
 masakari-api
 masakari-engine
 masakari-monitors
+hacluster-pacemaker
+hacluster-corosync
+hacluster-base
+hacluster-pcs
 
-iscsid
+
 
 barbican-api
 barbican-keystone-listener
 barbican-worker
 barbican-base
-tgtd
+
