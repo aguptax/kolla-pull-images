@@ -7,6 +7,7 @@ manila-api
 manila-data
 manila-scheduler
 manila-share
+glance
 
 # Identity, Secrets, and Access control
 keystone
